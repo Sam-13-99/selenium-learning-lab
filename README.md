@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sam-13-99
 - 👀 I’m interested in Mobile Gaaming, Reading, and napping ;p
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Selenium + Java Automation with Frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
